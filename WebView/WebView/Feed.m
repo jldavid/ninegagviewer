@@ -12,6 +12,8 @@
 // Hamburger - http://9gag.com/gag/awKG3bR
 // Baby Raccoon - http://9gag.com/gag/azEojGj
 
+// This is a great comment
+
 @synthesize currentURL;
 @synthesize navigationTitle;
 
